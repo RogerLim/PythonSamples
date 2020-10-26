@@ -1,5 +1,4 @@
 # app to test student class
-#
 
 from Student import Student
 
